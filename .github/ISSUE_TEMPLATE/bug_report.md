@@ -1,29 +1,28 @@
 ---
-name: "🐞 Bug Report"
-about: Nahlaste chybu, která by měla být opravena
+name: "🐞 Hlášení chyby"
+about: Nahlaste chybu v aplikaci
 title: "[BUG] Krátký popis problému"
 labels: bug
-assignees: ""
 ---
 
+## Identifikace
+- **Bug ID:** (vyplní systém nebo ponechte prázdné)
+- **Tester:** 
+- **Datum nahlášení:** 
+
 ## Popis chyby
-Jasně a stručně popište, co se pokazilo.
+- **Titulek:**  
+- **URL:**  
+- **Shrnutí:**  
+- **Screenshot / příloha:**  
+- **Platforma (OS, zařízení):**  
+- **Prohlížeč (pokud relevantní):**  
 
-## Kroky k reprodukci
-1. Přejděte na '...'
-2. Klikněte na '...'
-3. Uvidíte chybu '...'
+## Administrativa
+- **Přiřazeno komu:**  
+- **Přiřazeno kdy:**  
+- **Priorita:** (Nízká / Střední / Vysoká)  
+- **Závažnost:** (Minor / Major / Kritická)  
 
-## Očekávané chování
-Popište, co by se mělo stát.
-
-## Skutečné chování
-Popište, co se stalo místo toho.
-
-## Prostředí
-- Verze aplikace:  
-- Operační systém:  
-- Prohlížeč / zařízení:  
-
-## Přílohy
-Pokud je to možné, přidejte screenshoty, logy nebo video.
+## Poznámky
+(Doplňující informace, logy, kroky k reprodukci, odkazy apod.)
