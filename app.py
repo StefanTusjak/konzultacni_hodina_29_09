@@ -31,7 +31,7 @@ tlacitka = [
     "7", "8", "9", "/",
     "4", "5", "6", "*",
     "1", "2", "3", "-",
-    "0", "C", "=", "+",
+    "0", "C", "=", "+", ".",
 ]
 
 # Dynamické generování tlačítek
@@ -50,3 +50,4 @@ for znak in tlacitka:
 
 # Spuštění aplikace
 okno.mainloop()
+
